@@ -5,13 +5,13 @@ and React, Angular, Blazor, or Next.js on the frontend.
 
 ## What I've worked on
 
-- **Asset management tooling** — investment dashboards, investor email templates, 
+- **Asset management tooling**: investment dashboards, investor email templates, 
   and a WinForms-to-Blazor migration for a German asset management firm
-- **Property management platform** — energy consumption dashboards, contract uploads, 
+- **Property management platform**: energy consumption dashboards, contract uploads, 
   and tenant communication tools for the German residential market
-- **B2B e-commerce** — full order and payment flow with Bankart gateway, SOAP/ERP 
+- **B2B e-commerce**: full order and payment flow with Bankart gateway, SOAP/ERP 
   integration, and PostgreSQL schema design for a Slovenian retail company
-- **Slotio** — a white-label, multi-tenant booking SaaS I'm building independently 
+- **Slotio**: a white-label, multi-tenant booking SaaS I've built independently 
   (React, ASP.NET, PostgreSQL)
 
 ## Tech
